@@ -16,3 +16,11 @@
 2. [Insertion Sort vs. Merge Sort](https://github.com/abdel-elsayed/Algorithms/tree/master/Insertion%20Sort%20vs.%20Merge%20Sort)
    - Compares the two Sorting algorithms and calculating the time taken by each one,
    the number of steps, and the constant C.
+
+## Author
+
+* [Abdelrahman Elsayed](https://github.com/abdel-elsayed)
+
+## Project repository link
+
+https://github.com/abdel-elsayed/Algorithms
