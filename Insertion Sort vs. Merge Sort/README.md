@@ -23,3 +23,10 @@ Measure the running time and number of steps of each array[n] when the input is 
 ### 50 Randomly-Permutated array Instances
 ![alt tag](https://github.com/abdel-elsayed/Algorithms/blob/master/Insertion%20Sort%20vs.%20Merge%20Sort/images/output/50instancesOutput.PNG)
 ![alt tag](https://github.com/abdel-elsayed/Algorithms/blob/master/Insertion%20Sort%20vs.%20Merge%20Sort/images/output/50instancesOutput1.PNG)
+
+## Analysis Charts
+### Time Graphs
+#### Already Sorted
+![alt tag](https://github.com/abdel-elsayed/Algorithms/blob/master/Insertion%20Sort%20vs.%20Merge%20Sort/images/charts/already%20sorted%20time.jpg)
+#### Reversely Sorted
+![alt tag](https://github.com/abdel-elsayed/Algorithms/blob/master/Insertion%20Sort%20vs.%20Merge%20Sort/images/charts/reversely%20sorted%20time%20graph.jpg)
