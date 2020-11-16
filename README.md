@@ -1,4 +1,6 @@
 # Algorithms
+Analysis and Implementation of different sorting algorithms for CSC382(Analysis of Algorithms) class
+
 ## Sorting
 1. [Heap-sort](https://github.com/abdel-elsayed/Algorithms/tree/master/Heap-Sort)
    - Comparing mechanism based on a binary heap structure
