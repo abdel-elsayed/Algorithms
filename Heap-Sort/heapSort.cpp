@@ -27,7 +27,7 @@ void Maxheapify(vector<int>& arr, int n, int i)      // O(Logn)
         swap(arr[i], arr[largest]);
 
         // Recursively Maxheapify the affected sub-tree 
-        Maxheapify(arr, n, largest);      //  Logn
+        Maxheapify(arr, n, largest);//log(n)
     }
 }
 
