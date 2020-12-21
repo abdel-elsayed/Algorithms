@@ -8,7 +8,7 @@ void swap(int& x, int& y)
 }
 
 //create a max heap using the heapify method
-void Maxheapify(vector<int>& arr, int n, int i)      // O(Logn)
+void Maxheapify(vector<int>& arr, int n, int i) // O(Logn)
 {
     int largest = i; // Initialize largest as root 
     int l = 2 * i + 1; // left = 2*i + 1 
